@@ -1,0 +1,7 @@
+{
+  // Debe ser IGUAL al nombre del Worker en el panel de Cloudflare.
+  "name": "cobalion_web",
+  "compatibility_date": "2026-10-31",
+  "assets": { "directory": "./public" },
+  "observability": { "enabled": false }
+}
